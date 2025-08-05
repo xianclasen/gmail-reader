@@ -13,3 +13,13 @@ wheels/
 *.env 
 credentials.json
 token.json
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.bmp
+*.tiff
+*.ico   
